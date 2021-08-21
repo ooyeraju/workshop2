@@ -1,1 +1,2 @@
 This is the auth feature of clite.
+we're adding google auth in the app
